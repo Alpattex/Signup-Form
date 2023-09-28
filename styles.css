@@ -16,3 +16,32 @@ body {
   color: #fff;
   padding: 40px;
 }
+
+.right-half {
+    flex: 1;
+    background-color: #f4f4f4;
+    padding: 40px;
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
