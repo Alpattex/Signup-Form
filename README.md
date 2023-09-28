@@ -30,7 +30,7 @@ To use this sign-up form website template, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sign-up-form-website.git
+   git clone https://github.com/Alpattex/sign-up-form-website.git
    ```
 
 2. Customize the background photo:
