@@ -56,5 +56,4 @@ You can further customize this template to fit your branding or design preferenc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
